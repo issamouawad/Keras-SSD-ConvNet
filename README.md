@@ -268,10 +268,10 @@ Currently in the works:
 ##ICUB Dataset
 
 8k images here https://drive.google.com/open?id=12d60yxlbg6lC78fC9By4I5IWL_4BoxTx
-classes = ['book','cellphone','mouse','ringbinder']
+classes = ['background','book','cellphone','mouse','ringbinder']
 
 21k images here https://drive.google.com/open?id=1UUA3MjhYugKXMgoCva1X-YYxIGcmL2AM
-classes = ['book','cellphone','mouse','ringbinder','hairbrush','perfume','sunglasses']
+classes = ['background','book','cellphone','mouse','ringbinder','hairbrush','perfume','sunglasses']
 
 
 Feature Extraction Network Weights here https://drive.google.com/open?id=17jFt8A-oMOraXBQirgtlCoRUaFPu6qna
