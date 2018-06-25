@@ -3,3 +3,10 @@
 *.jpg
 *.png
 *.csv
+*.npz
+*.pyc
+*.pyc
+*.gz
+*.prototxt
+*.pyc
+*.caffemodel
