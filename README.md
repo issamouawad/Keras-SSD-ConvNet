@@ -273,5 +273,13 @@ classes = ['background','book','cellphone','mouse','ringbinder']
 21k images here https://drive.google.com/open?id=1UUA3MjhYugKXMgoCva1X-YYxIGcmL2AM
 classes = ['background','book','cellphone','mouse','ringbinder','hairbrush','perfume','sunglasses']
 
+21k images 6 classes ICUB_6 here https://drive.google.com/open?id=1w1BTbrKrwbBCDQIRyYqmzgDVPuhIn5hX
+classes = ['background','book','cellphone','hairbrush','mouse','perfume','sunglasses']
+
+VGG16_SSD512 MSCOCO weights resampled for ICUB_6 here 
+https://drive.google.com/open?id=1qQasnX0m8_IzISG9OnWnLwBcnuf-pahV
+
+VGG16_SSD300 MSCOCO weights resampled for iCUB_6 here 
+https://drive.google.com/open?id=1Vt96flg4r-WIMAwsGVQXtYaPMeH3yIcn
 
 Feature Extraction Network Weights here https://drive.google.com/open?id=17jFt8A-oMOraXBQirgtlCoRUaFPu6qna
