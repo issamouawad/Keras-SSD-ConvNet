@@ -290,3 +290,7 @@ https://drive.google.com/open?id=1H4DMNC6FTSHHX3SiS6LMTjuQElRLbh4C
 
 
 Feature Extraction Network Weights here https://drive.google.com/open?id=17jFt8A-oMOraXBQirgtlCoRUaFPu6qna
+
+https://drive.google.com/open?id=1v7pIKvT9JP0gfab8ggU1WJnq50pgxNOf
+
+https://drive.google.com/open?id=1c06wr6XlzhnagbN-AlAgl9euL-qxNQUN
