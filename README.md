@@ -282,4 +282,7 @@ https://drive.google.com/open?id=1qQasnX0m8_IzISG9OnWnLwBcnuf-pahV
 VGG16_SSD300 MSCOCO weights resampled for iCUB_6 here 
 https://drive.google.com/open?id=1Vt96flg4r-WIMAwsGVQXtYaPMeH3yIcn
 
+Testset for ICUB_6 of 450 images belonging to 3 unseen instances (25 each ) for 6 classes here
+https://drive.google.com/open?id=10LXA5RuiTDuuT1ckMut3Zh34Rd980rea
+
 Feature Extraction Network Weights here https://drive.google.com/open?id=17jFt8A-oMOraXBQirgtlCoRUaFPu6qna
