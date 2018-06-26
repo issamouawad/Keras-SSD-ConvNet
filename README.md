@@ -285,4 +285,8 @@ https://drive.google.com/open?id=1Vt96flg4r-WIMAwsGVQXtYaPMeH3yIcn
 Testset for ICUB_6 of 450 images belonging to 3 unseen instances (25 each ) for 6 classes here
 https://drive.google.com/open?id=10LXA5RuiTDuuT1ckMut3Zh34Rd980rea
 
+Testset for ICUB_6 of 450 images belonging to 3 seen instances (25 each ) for 6 classes here
+https://drive.google.com/open?id=1H4DMNC6FTSHHX3SiS6LMTjuQElRLbh4C
+
+
 Feature Extraction Network Weights here https://drive.google.com/open?id=17jFt8A-oMOraXBQirgtlCoRUaFPu6qna
